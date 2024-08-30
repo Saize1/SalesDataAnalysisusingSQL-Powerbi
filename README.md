@@ -34,4 +34,12 @@ Learned how to create and interpret key analytical visuals and reports in Power 
 
 # Final Result
 Dashboard Key Insights
+![Screenshot 2024-08-30 181517](https://github.com/user-attachments/assets/35ca96ca-0549-4003-9acc-24466fed6756)
+Dashboard Profit Analysis
+![Screenshot 2024-08-30 181542](https://github.com/user-attachments/assets/ca0ac1fa-11b0-44de-a4fe-f91ad4734edc)
+Dashboard Performance Analysis
+![Screenshot 2024-08-30 181609](https://github.com/user-attachments/assets/ae308e97-c659-4fec-987d-61bee2fe2157)
+
+
+
 
