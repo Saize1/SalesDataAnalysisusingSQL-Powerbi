@@ -1,4 +1,4 @@
-# SalesDataAnalysisusingSQL-Powerbi
+# Sales Data Analysis using SQL-PowerBI
 Analyzed sales data with MySQL Workbench using joins and aggregate functions. Identified key metrics impacting sales via Power BI. Created interactive dashboards for 4-years sales and profit analysis, enabling stakeholders to monitor and gain insights.
 # Problem Statement
 AtliQ Hardware, a company with branches across India, is facing declining sales, and the sales director is having trouble understanding business performance. Regional managers struggle to interpret sales data from Excel files, leading to frustration.
